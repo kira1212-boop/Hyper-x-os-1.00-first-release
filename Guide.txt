@@ -1,0 +1,26 @@
+====================================================================================================================================================================
+====================================================================================================================================================================
+
+                                    Hyper x os 1.00 (Released on august 13 before the github release)
+Hyper x Os is a assembly first hobby Operating system,by Kristoff Kurt Realda at just 12 its just a open source Operating system meant for forks and hardware.
+If you Like to try it on hardware just give it a try but if it didnt work maybe its because the hardware is fully uefi or too modern to boot hyper x os.
+but don't worry in the next release of Hyper X OS i would be a UEFI support and a full USB support with mount point.
+
+To use Hyper x os 1.00 you need to learn the basics of the commands first.
+
+installer:
+install - installs it into the disk (uses MBR)
+
+utilities: 
+Calc - simple 1 digit Math Arithmetic solving Equation
+edit - Text Editior
+read - Reads the Text Editor output
+arm - verify arm validation Flags (Sometimes unstable)
+sparc - Initialize SPARC hardware system Target parsers (Sometimes unstable)
+theme - just a theme for your look
+partlist - a partition lister
+SWC (Known as Software Center) - its a software center for 2 application as a tester (the command is software center not swc)
+
+thanks for using hyper x os 1.00 (Frist release) the License is under GPL 3.0 GNU Licenses.
+
+2026 October 4 (Date Mark).
