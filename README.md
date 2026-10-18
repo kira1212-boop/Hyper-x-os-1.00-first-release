@@ -26,6 +26,10 @@ An ultra-lightweight, high-performance, bare-metal x86 Operating System written 
 *   **Authoritative Power Reset (`reboot`):** Pulses the 8042 motherboard keyboard controller chip via Port `0x64` to force immediate bare-metal hardware cold reboots.
 
 ---
+## The story of Kristoff realda.
+* **True story of kristoff's conditions:** Kristoff had pure mental health issues, he had adhd and hyperadhd and IED.
+* **Programs:** Hyper x os Project the first release is on assembly.
+  
 
 ## 📦 Codebase Structural Mapping
 
