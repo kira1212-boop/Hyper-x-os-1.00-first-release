@@ -29,7 +29,8 @@ An ultra-lightweight, high-performance, bare-metal x86 Operating System written 
 ## The story of Kristoff realda.
 * **True story of kristoff's conditions:** Kristoff had pure mental health issues, he had adhd and hyperadhd and IED.
 * **Programs:** Hyper x os Project the first release is on assembly.
-  
+## File Systems.
+* **File Systems:** Hyper x os 1.00 is Fat 32 based file system because it simply simple and lightweight to run on a ibm machines.
 
 ## 📦 Codebase Structural Mapping
 
